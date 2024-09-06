@@ -1,1 +1,1 @@
-"# 07" 
+Second session of JS exercises(practice)
